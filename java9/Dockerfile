@@ -1,4 +1,4 @@
-FROM java:8
+FROM java:9
 LABEL MAINTAINER="ZhuJun Lu <24comic@gmail.com>"
 
 ENV NVM_VERSION 0.33.11
